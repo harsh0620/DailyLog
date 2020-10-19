@@ -1,25 +1,22 @@
 import React from 'react';
-import logo from './logo.svg';
+import DailyFeed from "./DailyFeed";
+import Main from "./Main";
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
+
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="app container">
+     <div className="row">
+       <div className="col-lg-6 col-12">
+   <Main/></div>
+       <div className="col-lg-6 col-12">  <DailyFeed/></div>
+     </div>
+    
+      
     </div>
+    
   );
 }
 
