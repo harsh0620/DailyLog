@@ -1,3 +1,9 @@
+## DailyLog WebApp
+
+![Images of webapp](https://lh3.googleusercontent.com/g4oU6sgXwEToOR9POudCgiesWW20UhJs9eInPnpLZprUh4U77sa2ZvEz3Q-00p173RuJE8An3iJl0vQiwDuc6CucrfjY8CFwTYimgTuWZ5-nKaiau0Zm1RZ4iJh-QbVgoG48rHGxYg=w2400)
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
